@@ -151,7 +151,7 @@ These help identify:
 
 **Key observations:**
 
-- States like [You will insert from your EDA results] show consistently high trial durations
+- States like Tamil Nadu ,Madhya Pradesh show consistently high trial durations
 
 - Courts with heavier caseloads have larger fractions of long-pending trials
 
